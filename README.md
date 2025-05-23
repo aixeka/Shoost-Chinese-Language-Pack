@@ -15,3 +15,5 @@
 下载好压缩包后解压得到文件夹
 
 将文件夹内的所有文件复制到Shoost文件的根目录下即可
+
+可以给我的视频点个赞让他传播的更远吗，[直达链接](https://www.bilibili.com/video/BV1aDj7zFEt7)
